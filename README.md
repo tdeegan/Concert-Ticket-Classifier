@@ -1,4 +1,4 @@
-For our Capstone Project, my group and I made a data warehouse to store the results of API calls to concert ticket vendors in an effort to build a classification model to predict the availability of the ticket listing the following day.
+During my Data Science Fellowship, my group and I completed a Capstone Project that included a data warehouse to store the results of API calls to concert ticket vendors in an effort to build a classification model to predict the availability of any given ticket listing the following day.
 
 Topics explored included:
 
